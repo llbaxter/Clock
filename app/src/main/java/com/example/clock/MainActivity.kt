@@ -2,10 +2,8 @@ package com.example.clock
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
+
 import android.view.Window
-import java.time.Clock
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
